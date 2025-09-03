@@ -4,25 +4,25 @@
 ### 📸 Screenshot of the project
 
 <p align="center">
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss1.png" alt="this is snapshot of the project" width="250"/>
-  </div>
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss2.png" alt="this is snapshot of the project" width="250"/>
-  </div>
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss3png" alt="this is snapshot of the project" width="250"/>
-  </div>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss1.png" alt="snapshot 1" width="250"/>
+  </span>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss2.png" alt="snapshot 2" width="250"/>
+  </span>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss3.png" alt="snapshot 3" width="250"/>
+  </span>
 </p>
 
 <p align="center">
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss4.png" alt="this is snapshot of the project" width="250"/>
-  </div>
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss5.png" alt="this is snapshot of the project" width="250"/>
-  </div>
-  <div style="display:inline-block; background:white; padding:5px; margin:5px;">
-    <img src="screenshot/ss6.png" alt="this is snapshot of the project" width="250"/>
-  </div>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss4.png" alt="snapshot 4" width="250"/>
+  </span>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss5.png" alt="snapshot 5" width="250"/>
+  </span>
+  <span style="background:white; padding:5px; margin:5px; display:inline-block;">
+    <img src="screenshot/ss6.png" alt="snapshot 6" width="250"/>
+  </span>
 </p>
