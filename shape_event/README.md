@@ -4,8 +4,8 @@
 ### 📸 Screenshot of the project
 
 <p align ="center">
-  <img src="screenshot/ss1.png" alt="this is snapshot of the project" width="300" height="340">
-  <img src="screenshot/ss2.png" alt="this is snapshot of the project" width="300" height="340">
+  <img src="screenshot/ss1.png" alt="this is snapshot of the project" width="300" height="300">
+  <img src="screenshot/ss2.png" alt="this is snapshot of the project" width="300" height="320">
   <img src="screenshot/ss3.png" alt="this is snapshot of the project" width="300" height="340">
 </p>
 
