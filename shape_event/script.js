@@ -50,3 +50,19 @@ s3.addEventListener("mouseenter",function(){
 s3.addEventListener("mouseleave",function(){
     s3.style.backgroundColor="white";
 })  
+
+// square 4 //
+// on clicking square 4 , square 1,2,3 genarates random color //
+
+let s4 = document.getElementById("sq4");
+s4.addEventListener("click",function(){
+    s1.style.backgroundColor = "red";
+    s2.style.backgroundColor = "green";
+    s3.style.backgroundColor = "blue";
+})
+
+s4.addEventListener("mouseleave",function(){
+    s1.style.backgroundColor="white";
+    s2.style.backgroundColor="white";
+    s3.style.backgroundColor="white";
+})  
