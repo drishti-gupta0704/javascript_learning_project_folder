@@ -8,7 +8,9 @@ s1.addEventListener("mouseenter",function(){
 })
 
 s1.addEventListener("mouseleave",function(){
-    s1.innerHTML = `<h1>1</h1>`;
+    // s1.innerHTML = `<h1>1</h1>`;
+    s1.innerHTML = `<p>hover on me to see magic</p>`;
+
 })  
 
 //for square 2 //
@@ -64,7 +66,7 @@ s4.addEventListener("click",function(){
     s3.style.backgroundColor = `rgb(255,255,${r3})`;
 })
     
-s4.ddEventListener("mouseleave",function(){
+s4.addEventListener("mouseleave",function(){
     s1.style.backgroundColor="white";
     s2.style.backgroundColor="white";
     s3.style.backgroundColor="white";
