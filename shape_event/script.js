@@ -56,13 +56,16 @@ s3.addEventListener("mouseleave",function(){
 
 let s4 = document.getElementById("sq4");
 s4.addEventListener("click",function(){
-    s1.style.backgroundColor = "red";
-    s2.style.backgroundColor = "green";
-    s3.style.backgroundColor = "blue";
+    let r1 = Math.floor(Math.random() * 256); // 256 is excluded
+    let r2 = Math.floor(Math.random() * 256);
+    let r3 = Math.floor(Math.random() * 256);
+    s1.style.backgroundColor = `rgb(${r1},255,255)`;  
+    s2.style.backgroundColor = `rgb(255,${r2},255)`;
+    s3.style.backgroundColor = `rgb(255,255,${r3})`;
 })
-
-s4.addEventListener("mouseleave",function(){
+    
+s4.ddEventListener("mouseleave",function(){
     s1.style.backgroundColor="white";
     s2.style.backgroundColor="white";
     s3.style.backgroundColor="white";
-})  
+} )
