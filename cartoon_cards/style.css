@@ -12,7 +12,13 @@ html, body {
 #main{
   height:100%;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
+
+
 .card{
   height: 130px;
   width: 100px;
@@ -25,14 +31,15 @@ html, body {
   justify-content: center;
 }
 
-/* .card img{
+ /* .card img{
   height: 100%;
   width:100%;
   background-size:cover;
-  background-position: center;    /* because image was'nt fitting */
-  /* background-repeat: no-repeat; 
-} */ 
- 
+  background-position: center;    
+  background-repeat: no-repeat; 
+  overflow: hidden;
+}   */
+
 
 .card img {
   height: 100%;
@@ -41,3 +48,4 @@ html, body {
   display: block;      /* removes default inline spacing */
   border-radius: inherit; /* optional: matches card rounding */
 }
+
