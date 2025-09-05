@@ -25,10 +25,19 @@ html, body {
   justify-content: center;
 }
 
-.card img{
+/* .card img{
   height: 100%;
   width:100%;
   background-size:cover;
   background-position: center;    /* because image was'nt fitting */
-  background-repeat: no-repeat; 
+  /* background-repeat: no-repeat; 
+} */ 
+ 
+
+.card img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;   /* makes the image cover without stretching */
+  display: block;      /* removes default inline spacing */
+  border-radius: inherit; /* optional: matches card rounding */
 }
