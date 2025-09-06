@@ -15,4 +15,4 @@ This is a simple project that displays 52 cards, each showing a random image fro
 - JavaScript – Random image generation logic 
 
 ### 📸 Demo  
-<img src="image.png" alt="this is snapshot of the project" width="400">
+<img src="image.png" alt="this is snapshot of the project" width="500">
